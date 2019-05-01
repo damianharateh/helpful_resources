@@ -4,7 +4,7 @@ This document was created as a result of a year-long postgraduate study of Compu
 
 I warmly welcome commits with other useful materials and websites.
 
-### Programming (online games/courses/tutorials)
+# Programming (online games/courses/tutorials)
 
 ## Java
 * [CodeGym](http://codegym.cc)
@@ -31,7 +31,7 @@ I warmly welcome commits with other useful materials and websites.
 ## Introduction to Machine Learning
 * [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-### Theoretical Computer Science
+# Theoretical Computer Science
 * 🇵🇱 [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
 
 ## Algorithmics

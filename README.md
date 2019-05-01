@@ -48,7 +48,6 @@ I warmly welcome commits with other useful materials and websites.
 * [P vs NP](https://medium.com/@niruhan/p-vs-np-problem-8d2b6fc2b697)
 ### Turing Machines
 *  [TM presentation](http://users.pja.edu.pl/~msyd/turingMachines1.pdf)
-
 * [Algorithmics & Data Structures - Undergraduate CS lectures](http://users.pja.edu.pl/~msyd/asd-eng.html)  
 
 ## Artifical Intelligence & Computational Intelligence

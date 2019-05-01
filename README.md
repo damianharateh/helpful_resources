@@ -8,7 +8,7 @@ I welcome commits with other useful materials.
 
 ### Programming (online games/courses/tutorials)
 
-##Java
+## Java
 * [CodeGym](http://codegym.cc)
 * [LearnJava](https://www.learnjavaonline.org)
 * [Programming by doing](http://programmingbydoing.com/)
@@ -16,13 +16,13 @@ I welcome commits with other useful materials.
 * PL: [Samouczek programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
 * [Intro to Programming in Java - Princeton](https://introcs.cs.princeton.edu/java/home/)
 
-##Python
+## Python
 * [LearnPython](https://www.learnpython.org/)
 * [Programming Historian](https://programminghistorian.org/en/lessons/)
 * [DataCamp](https://www.datacamp.com)
 * [Kaggle](https://www.kaggle.com/learn/python)
 
-##SQL
+## SQL
 * [SQL bolt](https://sqlbolt.com/)
 * [Kaggle](https://www.kaggle.com/learn/sql)
 * [GalaXQL](http://sol.gfxile.net/g3/)
@@ -30,7 +30,7 @@ I welcome commits with other useful materials.
 * [SQL teaching](https://www.sqlteaching.com/)
 * [SQL fiddle](http://www.sqlfiddle.com/)
 
-##Introduction to Machine Learning
+## Introduction to Machine Learning
 * [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### Theoretical Computer Science

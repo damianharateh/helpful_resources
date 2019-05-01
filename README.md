@@ -2,9 +2,7 @@
 
 This document was created as a result of a year-long postgraduate study in Computer Science, during which I stumbled upon a number of extremely useful websites, the websites which may also be found useful by others.  
 
-I welcome commits with other useful materials.
-
-**Materials in a language different than English are indicated by a leading language abbreviation.**
+I warmly welcome commits with other useful materials.
 
 ### Programming (online games/courses/tutorials)
 
@@ -13,7 +11,7 @@ I welcome commits with other useful materials.
 * [LearnJava](https://www.learnjavaonline.org)
 * [Programming by doing](http://programmingbydoing.com/)
 * [Java Lessons](http://javalessons.com/)
-* PL: [Samouczek programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* 🇵🇱 [Samouczek programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
 * [Intro to Programming in Java - Princeton](https://introcs.cs.princeton.edu/java/home/)
 
 ## Python
@@ -34,9 +32,13 @@ I welcome commits with other useful materials.
 * [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### Theoretical Computer Science
-* PL :pl: [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
+* 🇵🇱 [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
 
 ## Algorithmics
   * [How to determine complexities](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/big-O-notation.html)
+  * [Algorithmic efficiency](https://finematics.com/algorithmic-efficiency-and-big-o-notation/)
   * [Big O](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
   * [Big O, Big Ω, & Big θ](https://medium.com/@.RT/total-n00bs-guide-to-big-o-big-%CF%89-big-%CE%B8-aa259ae8a1c2)
+  * 🇵🇱 [Podstawy złożoności obliczeniowej](https://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/)
+  * 🇵🇱 [Podstawy analizy algorytmów](http://www.przemyslawowsianik.net/2016/02/27/podstawy-analizy-algorytmow-big-o-notation/)
+ 

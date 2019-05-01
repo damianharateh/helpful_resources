@@ -34,7 +34,7 @@ I welcome commits with other useful materials.
 * [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### Theoretical Computer Science
-* PL [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
+* PL :pl: [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
 
 ## Algorithmics
   * [How to determine complexities](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/big-O-notation.html)

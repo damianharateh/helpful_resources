@@ -35,7 +35,7 @@ I warmly welcome commits with other useful materials and websites.
 * 🇵🇱 [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
 
 ## Algorithmics
-* Order Notation
+### Order Notation
   * [How to determine complexities](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/big-O-notation.html)
   * [Algorithmic efficiency](https://finematics.com/algorithmic-efficiency-and-big-o-notation/)
   * [Big O](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)

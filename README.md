@@ -1,8 +1,8 @@
 # Useful websites/tools/materials
 
-This document was created as a result of a year-long postgraduate study in Computer Science, during which I stumbled upon a number of extremely useful websites, the websites which may also be found useful by others.  
+This document was created as a result of a year-long postgraduate study of Computer Science, during which I stumbled upon a number of extremely useful websites, the websites which may also be found useful by others.  
 
-I warmly welcome commits with other useful materials.
+I warmly welcome commits with other useful materials and websites.
 
 ### Programming (online games/courses/tutorials)
 
@@ -60,7 +60,6 @@ I warmly welcome commits with other useful materials.
 ## Neurocognitive Technologies, Neuroscience & Cognitive Sciences
 * [A list of incredibly interesting talks and lectures](http://www.is.umk.pl/~wduch/ref.html)
 * 🇵🇱 [A mind-boggling amount of materials](http://www.is.umk.pl/~wduch/Wyklady/index.html)
-
 
 ## Architecture & Hardware
 ...will be filled soon...

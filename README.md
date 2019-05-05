@@ -1,16 +1,16 @@
 # Useful websites/tools/materials
 
-This document was created as a result of a year-long postgraduate study of Computer Science, during which I stumbled upon a number of extremely useful websites, the websites which may also be found useful by others.  
+This document was created as a result of a year-long postgraduate study of Computer Science, during which I stumbled upon a number of extremely useful websites, which may happen to be found useful by others.  
 
 I warmly welcome commits with other useful materials and websites.
 
-## Programming (online games/courses/tutorials)
+# Programming (online games/courses/tutorials)
 ## Java
 * [CodeGym](http://codegym.cc)
 * [LearnJava](https://www.learnjavaonline.org)
 * [Programming by doing](http://programmingbydoing.com/)
 * [Java Lessons](http://javalessons.com/)
-* 🇵🇱 [Samouczek programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* 🇵🇱[Samouczek programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
 * [Intro to Programming in Java - Princeton](https://introcs.cs.princeton.edu/java/home/)
 
 ## Python
@@ -18,6 +18,12 @@ I warmly welcome commits with other useful materials and websites.
 * [Programming Historian](https://programminghistorian.org/en/lessons/)
 * [DataCamp](https://www.datacamp.com)
 * [Kaggle](https://www.kaggle.com/learn/python)
+
+## JavaScript
+* [Anything you could possibly want to know about JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 🇵🇱[Kurs JS](https://kursjs.pl/)
+* [Learn JS (interactive tutorial)](https://learnjavascript.online/)
+* [Few examples of intermediate JS concepts](https://johnresig.com/apps/learn/)
 
 ## SQL
 * [SQL bolt](https://sqlbolt.com/)
@@ -30,7 +36,15 @@ I warmly welcome commits with other useful materials and websites.
 ## Introduction to Machine Learning
 * [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-## Theoretical Computer Science
+## Coding Challenges/Competetive Programming
+* [CoderByte](https://www.coderbyte.com/)
+* [CodinGame](https://www.codingame.com/start)
+* [Codility](https://app.codility.com/programmers/)
+* [HackerRank](https://www.hackerrank.com/)
+
+&nbsp;
+# Theoretical Computer Science
+## Undergraduate CS degree subjects
 * 🇵🇱 [Uniwersytet Warszawski, Wydział Matematyki, Informatyki i Mechaniki](http://wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna)
 
 ## Algorithmics
